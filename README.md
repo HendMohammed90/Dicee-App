@@ -1,7 +1,7 @@
 
 
 # 🎲 🎲 Dicee 🎲 🎲
-![This is an image](https://github.com/HendMohammed90/Card/blob/master/images/Screen%20Shot%202022-06-09%20at%205.40.01%20PM.png)
+![This is an image](https://github.com/HendMohammed90/Dicee-App/blob/master/images/Screen%20Shot%202022-06-12%20at%2012.34.02%20PM.png)
 
 
 ## The Goal
